@@ -1,2 +1,2 @@
 # Ip-Scanner-Lab
-I installed Angry IP Scanner on a VM and used it to scan my virtual network. This lab demonstrates basic network discovery by identifying active hosts, IP ranges, and device responses inside an isolated environment. It shows my understanding of LAN scanning and host enumeration fundamentals.
+I used a Windows VM, Kali Linux VM, and Angry IP Scanner to perform basic network discovery. I verified each machine’s IP using ipconfig on Windows and ifconfig on Kali, then scanned the network from Windows to identify active hosts and confirm communication across the virtual LAN.
