@@ -1,0 +1,15 @@
+Tools Used 
+Oracle VirtualBox – Virtualization platform used to run both VMs
+Windows VM – Used to run Angry IP Scanner and verify IP settings with ipconfig
+Kali Linux VM – Used to confirm network configuration with ifconfig
+Angry IP Scanner – Tool used to scan the LAN and detect active hosts
+Objective
+To practice basic network discovery by verifying IP addresses on Windows and Kali, then using Angry IP Scanner to scan the LAN and identify active hosts.  
+What I learned
+How to verify IP addresses using ipconfig (Windows) and ifconfig (Kali)
+How to determine the correct IP range for scanning
+How Angry IP Scanner detects active hosts on a LAN
+How Windows and Linux machines appear in scan results
+How to confirm communication between virtual machines
+Fundamentals of network discovery and host enumeration
+How virtualization networking works in Oracle VirtualBox
